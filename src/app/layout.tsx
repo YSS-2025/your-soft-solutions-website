@@ -25,7 +25,7 @@ const aptos = localFont({
 })
 
 export const metadata: Metadata = {
-  title: "Your Soft Solutions, LLC",
+  title: "Your Soft Solutions",
   description: "A software development company from Dunkirk, NY",
 };
 
